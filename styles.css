@@ -7,7 +7,7 @@
 
 body {
     font-family: 'Roboto', sans-serif;
-    background: linear-gradient(135deg, #f03c9f 0%, #eb93c9 100%);
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
     min-height: 100vh;
     display: flex;
     align-items: center;
@@ -72,7 +72,7 @@ body {
 .profile-name {
     font-size: 28px;
     font-weight: 700;
-    color: #9b005a;
+    color: #1976d2;
     margin-bottom: 8px;
     letter-spacing: -0.5px;
 }
@@ -103,7 +103,7 @@ body {
     gap: 12px;
     font-size: 20px;
     font-weight: 600;
-    color: #9b005a;
+    color: #1976d2;
     margin-bottom: 20px;
     padding-bottom: 8px;
     border-bottom: 2px solid #e3f2fd;
@@ -111,7 +111,6 @@ body {
 
 .section-title .material-icons {
     font-size: 24px;
-    color: #9b005a;
     color: #1976d2;
 }
 
@@ -145,7 +144,6 @@ body {
 .skill-name {
     font-size: 16px;
     font-weight: 500;
-    color: #9b005a;
     color: #1976d2;
 }
 
@@ -169,7 +167,6 @@ body {
     color: #424242;
     font-weight: 400;
     transition: all 0.3s ease;
-    border-left: 4px solid #9b005a;
     border-left: 4px solid #1976d2;
 }
 
