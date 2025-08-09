@@ -72,7 +72,6 @@ body {
 .profile-name {
     font-size: 28px;
     font-weight: 700;
-    color: #1976d2;
     color: #a01b73;
     margin-bottom: 8px;
     letter-spacing: -0.5px;
@@ -104,7 +103,6 @@ body {
     gap: 12px;
     font-size: 20px;
     font-weight: 600;
-    color: #1976d2;
     color: #a01b73;
     margin-bottom: 20px;
     padding-bottom: 8px;
@@ -113,7 +111,6 @@ body {
 
 .section-title .material-icons {
     font-size: 24px;
-    color: #1976d2;
     color: #a01b73;
 }
 
@@ -147,7 +144,6 @@ body {
 .skill-name {
     font-size: 16px;
     font-weight: 500;
-    color: #1976d2;
     color: #a01b73;
 }
 
@@ -171,7 +167,6 @@ body {
     color: #424242;
     font-weight: 400;
     transition: all 0.3s ease;
-    border-left: 4px solid #1976d2;
     border-left: 4px solid #a01b73;
 }
 
