@@ -8,6 +8,7 @@
 body {
     font-family: 'Roboto', sans-serif;
     background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    background: linear-gradient(135deg, #f567beff 0%, #f0adce 100%);
     min-height: 100vh;
     display: flex;
     align-items: center;
