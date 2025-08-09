@@ -73,6 +73,7 @@ body {
     font-size: 28px;
     font-weight: 700;
     color: #1976d2;
+    color: #a01b73;
     margin-bottom: 8px;
     letter-spacing: -0.5px;
 }
@@ -104,6 +105,7 @@ body {
     font-size: 20px;
     font-weight: 600;
     color: #1976d2;
+    color: #a01b73;
     margin-bottom: 20px;
     padding-bottom: 8px;
     border-bottom: 2px solid #e3f2fd;
@@ -112,6 +114,7 @@ body {
 .section-title .material-icons {
     font-size: 24px;
     color: #1976d2;
+    color: #a01b73;
 }
 
 /* ===== SECCIÓN DE HABILIDADES ===== */
@@ -145,6 +148,7 @@ body {
     font-size: 16px;
     font-weight: 500;
     color: #1976d2;
+    color: #a01b73;
 }
 
 /* ===== SECCIONES DE FAVORITOS ===== */
@@ -168,6 +172,7 @@ body {
     font-weight: 400;
     transition: all 0.3s ease;
     border-left: 4px solid #1976d2;
+    border-left: 4px solid #a01b73;
 }
 
 .favorite-item:hover {
